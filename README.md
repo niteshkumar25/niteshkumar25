@@ -13,7 +13,7 @@ I'm a software engineer with **3+ years of production experience** building REST
 
 - 🎓 **Studying** M.Eng. Computer Engineering for IoT Systems (Hochschule Nordhausen, Germany)
 - 🤖 **Building** a multi-agent AI system with LangGraph, LangChain and RAG
-- 🐍 **Learning** Python for data science (M762 – Data Science in Python, WS 2026/27)
+- 🤖 **Learning** Advanced AI, Generative AI, LLMs, and Agentic AI.
 - ⚛️ **Improving** my React and advanced TypeScript skills
 - ☁️ **Deepening** my AWS and cloud deployment knowledge
 - 🔍 **Looking for** Werkstudent and internship opportunities in software engineering in Germany
