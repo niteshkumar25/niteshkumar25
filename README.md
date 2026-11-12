@@ -1,101 +1,68 @@
-# Nitesh Kumar
+# Hi, I'm Nitesh Kumar 👋
 
-### Full Stack Developer | Node.js | TypeScript | React | Python
+### Software Engineer · Backend & Full Stack · TypeScript, Node.js, Python
 
-Full Stack Developer with **3+ years of professional software development experience**, specializing in backend development, API design, and scalable web applications.
+I'm a software engineer with **3+ years of production experience** building REST APIs, backend services and microservices. I'm now studying for an **M.Eng. in Computer Engineering for IoT Systems at Hochschule Nordhausen, Germany**, and building AI-powered applications on the side.
 
-Currently pursuing an **M.Eng. in Computer Engineering for IoT Systems at Hochschule Nordhausen, Germany**.
-
-I enjoy building reliable backend systems, intuitive web applications, and exploring how AI and cloud technologies can improve modern software.
-
----
-
-### About Me
-
-- 💻 3+ years of professional software development experience.
-- 🎓 M.Eng. Computer Engineering for IoT Systems student in Germany.
-- ⚙️ Experienced in building REST APIs, backend services, and microservices.
-- 🌐 Interested in full stack application development.
-- 🤖 Exploring AI agents, RAG, LangChain, and LangGraph.
-- ☁️ Working with AWS and cloud technologies.
-- 🌱 Currently improving my skills in React, Python, Data Science, and IoT.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitesh--kumar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-kumar-66926a176)
+[![GitHub](https://img.shields.io/badge/GitHub-niteshkumar25-181717?logo=github&logoColor=white)](https://github.com/niteshkumar25)
 
 ---
 
-### Tech Stack
+## 🚀 What I'm Doing Right Now
 
-**Languages**
-
-JavaScript · TypeScript · Python · Java
-
-**Frontend Development**
-
-React.js · Redux Toolkit · HTML5 · CSS3
-
-**Backend Development**
-
-Node.js · Express.js · NestJS · REST APIs · Microservices
-
-**Databases**
-
-PostgreSQL · MySQL · MongoDB · Redis
-
-**AI & Machine Learning**
-
-LangChain · LangGraph · RAG · LLM Integration · Qdrant
-
-**Cloud & DevOps**
-
-AWS (EC2, S3, RDS) · Docker · GitHub Actions · GitLab CI/CD
-
-**Tools & Testing**
-
-Git · GitHub · Postman · PyTest · Linux
+- 🎓 **Studying** M.Eng. Computer Engineering for IoT Systems (Hochschule Nordhausen, Germany)
+- 🤖 **Building** a multi-agent AI system with LangGraph, LangChain and RAG
+- 🐍 **Learning** Python for data science (M762 – Data Science in Python, WS 2026/27)
+- ⚛️ **Improving** my React and advanced TypeScript skills
+- ☁️ **Deepening** my AWS and cloud deployment knowledge
+- 🔍 **Looking for** Werkstudent and internship opportunities in software engineering in Germany
 
 ---
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-**Multi-Agent AI System**
-
-An exploration of multi-agent AI workflows and Retrieval-Augmented Generation.
-
-- LangGraph and LangChain
-- RAG and vector search with Qdrant
-- React and Node.js
-- TypeScript and streaming AI responses
-
-[View Project](https://github.com/niteshkumar25/Multi-Agent-AI-System)
-
-**Data Science in Python**
-
-University coursework and practical exercises for M762 – Data Science in Python (WS 2026/27).
-
-- Python programming fundamentals
-- Lists, tuples, dictionaries, and sets
-- Practical exercises using Jupyter Notebooks
+| Area | Tools |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, Java |
+| **Backend** | Node.js, NestJS, Express.js, REST APIs, Microservices |
+| **Frontend** | React, Redux Toolkit, HTML5, CSS3 |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **AI / ML** | LangChain, LangGraph, RAG, LLM integration, Qdrant |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, GitHub Actions, GitLab CI/CD |
+| **Testing & Tools** | Jest, PyTest, Postman, Git, Linux |
 
 ---
 
-### Current Learning Goals
+## 📌 Featured Projects
 
-- Full Stack Development with React and Node.js
-- Advanced TypeScript and backend architecture
-- Python and Data Science
-- AI-powered applications and multi-agent systems
-- AWS and cloud deployment
-- Internet of Things and Industry 4.0
+### 🧠 [Multi-Agent AI System](https://github.com/niteshkumar25/Multi-Agent-AI-System)
+A multi-agent workflow that combines retrieval-augmented generation with streaming responses.
+
+**Stack:** LangGraph · LangChain · Qdrant · React · Node.js · TypeScript
+
+### 📊 Data Science in Python
+Coursework and practical exercises from M762 at Hochschule Nordhausen, covering Python fundamentals and data structures in Jupyter Notebooks.
+
+**Stack:** Python · Jupyter
 
 ---
 
-### Let's Connect
+## 🎯 Goals
 
-I'm interested in connecting with developers, engineers, and teams working on web development, AI, cloud computing, and IoT.
+- Ship full stack, AI-powered applications end to end
+- Strengthen backend architecture and cloud deployment skills
+- Grow into IoT and Industry 4.0 software engineering
 
+---
+
+## 🤝 Let's Connect
+
+I'm happy to talk with developers and teams working on web development, AI, cloud and IoT.
+
+- **LinkedIn:** [nitesh-kumar](https://www.linkedin.com/in/nitesh-kumar-66926a176)
 - **GitHub:** [@niteshkumar25](https://github.com/niteshkumar25)
-- **LinkedIn:** [@niteshkumar25](https://www.linkedin.com/in/nitesh-kumar-66926a176)
-- **Portfolio:** Coming soon
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Building, learning and shipping, one project at a time.*
