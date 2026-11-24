@@ -5,7 +5,7 @@
 I'm a software engineer with **3+ years of production experience** building REST APIs, backend services and microservices. I'm now studying for an **M.Eng. in Computer Engineering for IoT Systems at Hochschule Nordhausen, Germany**, and building AI-powered applications on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitesh--kumar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-kumar-66926a176)
-[![GitHub](https://img.shields.io/badge/GitHub-niteshkumar25-181717?logo=github&logoColor=white)](https://github.com/niteshkumar25)
+Email: niteshkumar2599@gmail.com
 
 ---
 
@@ -61,7 +61,7 @@ Coursework and practical exercises from M762 at Hochschule Nordhausen, covering 
 I'm happy to talk with developers and teams working on web development, AI, cloud and IoT.
 
 - **LinkedIn:** [nitesh-kumar](https://www.linkedin.com/in/nitesh-kumar-66926a176)
-- **GitHub:** [@niteshkumar25](https://github.com/niteshkumar25)
+- Email: niteshkumar2599@gmail.com
 
 ---
 
